@@ -49,3 +49,7 @@ npm start
 📌 Purpose  
 This project is meant for practice and learning basic authentication flows in React.  
 It can be extended further with backend integration or JWT authentication.  
+---------------------------------------------------------------
+## 🌐 Live Demo  
+You can check out the deployed version of this project here:  
+👉 https://loginfy.netlify.app/
